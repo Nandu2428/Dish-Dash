@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/*
+
+*{
+    padding:0;
+    margin:0;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0.5px 0.1px 0.5px rgba(0,0,0,0.8);
+    margin-bottom: 5px;
+}
+.img-logo{
+    margin-right:5px;
+    margin-top: 8px;
+    width:50px;
+}
+.nav-items ul{
+    display:flex;
+}
+.nav-items ul li{
+    list-style: none;
+    margin: 20px 20px 0px 0px;
+    font-size: 20px;
+}
+.logout{
+    margin-top: 20px;
+    padding:5px;
+}
+.body{
+    margin-left: 30px;
+}
+.res-container{
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.res-card{
+    width:220px;
+    margin:5px;
+}
+
+.res-card h4{
+    margin-top: 10px;
+    padding:5px;
+}
+
+.res-card h3 {
+    padding: 5px;
+}
+
+.res-logo{
+    width:210px;
+    height:130px;
+    padding:5px;
+}
+
+.res-card:hover{
+    cursor:pointer;
+    border: 1px solid black;
+}
+.filter-btn{
+    padding:5px;
+    cursor:pointer;
+}
+
+.shimmer-Container {
+    display: flex;
+    flex-wrap: wrap;
+    margin:30px;
+}
+
+.shimmer-card{
+    width:210px;
+    margin:10px;
+    height: 290px;
+    background-color:#f0f0f0;
+}
+
+.filter{
+    display:flex;
+}
+
+.search{
+    margin-right: 20px;
+}
+.search-box{
+    padding:5px;
+    margin-right:5px;
+}
+.search-button{
+    padding:5px;
+}
+
+*/
